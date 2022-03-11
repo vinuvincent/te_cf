@@ -1,7 +1,7 @@
 Django==1.11.6
 Jinja2==2.9.6
 MarkupSafe==1.0
-Pillow==4.3.0
+Pillow==9.0.1
 PySocks==1.6.7
 Pygments==2.2.0
 Unidecode==0.4.21
